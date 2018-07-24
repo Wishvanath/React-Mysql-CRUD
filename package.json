@@ -1,0 +1,19 @@
+{
+  "name": "reactmysql",
+  "version": "1.0.0",
+  "description": "CRUD application in reactmysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wishvanath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5",
+    "pg": "^7.4.3"
+  }
+}
